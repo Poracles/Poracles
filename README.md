@@ -1,14 +1,17 @@
 ### Привет гость! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://vk.com/4elovek00">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
-<a href="https://t.me/poracles">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
 <br />
+<p align="left">
+  <a href="https://vk.com/4elovek00">
+    <img alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+  </a>
+  <a href="https://t.me/poracles">
+    <img alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  </a>
+</p>
 
-Привет, меня зовут Василий, я самоучка, учусь на системного администратора.
+<br clear="all" />
+
+Меня зовут Василий, я самоучка, учусь на системного администратора.
 
 <br />
   
