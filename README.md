@@ -27,7 +27,7 @@
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
 * [x] Пройти курс "Linux-Bootcamp" на Slurm
-    [Отчет](https://github.com/Poracles/Linux_Bootcamp_from_begginer)
+    [(Отчет)](https://github.com/Poracles/Linux_Bootcamp_from_begginer)
 * [ ] Пройти курс по Git на Slurm
 * [ ] Создать свой первый проект на Github
 * [ ] Пройти курс "Администрирование Linux-серверов" на Slurm
